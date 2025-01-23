@@ -1,6 +1,6 @@
-# GAO-Internal-Chatbot
-An internal chatbot that future GAO interns can reference documentation from in a WebUI format
-
+# Internal Chatbot
+An chatbot template that allows for reference of documentation in a WebUI interface
+This project was created for my internship at GAO Capital. The purpose of this project was to help integrate new interns into the company by letting them use a chatbot to ask questions.
 
 # Downloading and usage
 Download all files from the Github and create the following files:
