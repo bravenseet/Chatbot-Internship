@@ -47,10 +47,3 @@ When all files are downloaded and created as mentioned earlier:
 1. Run ```python mainMemory.py``` in cmd using virtualenv
 2. Once ./db has the vectorstore, run ```streamlit run serverST.py``` in cmd
 3. The website should be hosted at ```http://localhost:8501/```
-
-# Take note
-* When certain data is missing from the ./db, delete the files within ./db and rerun ```mainMemory.py```
-* There already exists a version of the GAOGPT on the XTS computer. The most updated InternManualFormatted.docx exists in the GAO OneDrive:  OneDrive - GAO -> AI Projects -> GAOGPT.
-* The document is placed there for easier updating of documentation
-
-All code may be subject to change and may not be the most efficient. If future interns are reading this and want to alter and improve the code, please feel free to do so! (Braven)
