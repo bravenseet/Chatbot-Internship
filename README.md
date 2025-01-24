@@ -1,5 +1,5 @@
 # Internal Chatbot
-An chatbot template that allows for reference of documentation in a WebUI interface
+An chatbot template that allows for reference of documentation in a WebUI.
 This project was created for my internship at GAO Capital. The purpose of this project was to help integrate new interns into the company by letting them use a chatbot to ask questions.
 
 # Downloading and usage
